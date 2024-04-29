@@ -16,4 +16,4 @@ I'm pretty sure I never put the source code online (looks like my first GH commi
 
 ![](ScreenRecording.gif)
 
-[Download the jar file](https://github.com/khiner/CrosswordFiller/WordFillVer2.jar) and have a blast all weekend long 🤪
+[Download the jar file](https://github.com/khiner/CrosswordFiller/raw/main/WordFillVer2.jar) and have a blast all weekend long 🤪
