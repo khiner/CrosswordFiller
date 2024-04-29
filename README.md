@@ -3,8 +3,7 @@
 One of the first programs I ever wrote - a program to find valid English crossword fills given a grid pattern with optional partial completions.
 
 This project came to mind recently and I looked around on the Wayback Machine.
-Turns out I posted the jar on MediaFire and linked to it on an old blog on Jan 2, 2011.
-Luckily, there was [_one capture_ of the jar on MediaFire](https://web.archive.org/web/20240123154949/https://download1655.mediafire.com/lbbcl7ez7adgib9-IUIf0OotUQ4kI4yMugl-Z7a2t57Sf6zL1ibXfzI6OpKsYixWErxnSa_xXvfW7VUqBTZMquQnFAxdKdhgMHDW7saQ3hopgoAbW0-Qae5nX9nbIjSjlrs595R8mCsxTh5KCv0ls3-Pizdj5ZDuPJ0Inlg2CUKDws4/rwpl49xusm55s2a/WordFillVer2.jar) from oddly recently (Jan 23 2024).
+Turns out I posted the jar on MediaFire and linked to it on an old blog on Jan 2, 2011, and it's [still there](https://www.mediafire.com/file/rwpl49xusm55s2a/WordFillVer2.jar).
 I downloaded and opened it on my 2023 MacBook Air, and it ran!
 Since it's Java, I'm guessing it runs on other computers, too :)
 
