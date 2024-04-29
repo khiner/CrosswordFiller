@@ -7,7 +7,9 @@ Turns out I posted the jar on MediaFire and linked to it on an old blog on Jan 2
 I downloaded and opened it on my 2023 MacBook Air, and it ran!
 Since it's Java, I'm guessing it runs on other computers, too :)
 
-I'm pretty sure I never put the source code online (looks like my first GH commit was almost a year later in [Dec 2011](https://github.com/khiner/AI-Challenge-2011/commit/9cd23268070eceb859ce34083a6f6ae25e9c7ac7)), but here are my vague recollections from over 13 years ago:
+I'm pretty sure I never put the source code online (looks like my first GH commit was almost a year later in [Dec 2011](https://github.com/khiner/AI-Challenge-2011/commit/9cd23268070eceb859ce34083a6f6ae25e9c7ac7)), but [David Walton](https://github.com/diggernet) used the [Enhanced Class Decompiler](https://marketplace.eclipse.org/content/enhanced-class-decompiler) Eclipse plugin, configured to use the Procyon decompiler, to recover something similar to the original source. (Thanks, David!)
+
+Here are my vague recollections from over 13 years ago:
 * It uses [beam search](https://en.wikipedia.org/wiki/Beam_search).
 * Written in Java. Looking at [the releases](https://www.java.com/releases/), version 6 was the latest at the time.
 * UI is Java Swing
@@ -18,10 +20,8 @@ I'm pretty sure I never put the source code online (looks like my first GH commi
 
 [Download the jar file](https://github.com/khiner/CrosswordFiller/raw/main/WordFillVer2.jar) and have a blast all weekend long 🤪
 
-To compile,
-
-`$ javac Display.java`
-
-To run,
-
-`$ java Display`
+Or, to compile and run the decompiled source:
+```shell
+$ javac Display.java
+$ java Display
+```
